@@ -16,11 +16,12 @@ MongoDB
 CMS
 WordPress
 Shopify
+
 🌱 I am continuously learning and enhancing my skills in programming, focusing on building efficient applications and websites.
 
 💞️ If you're interested in collaborating or discussing projects, feel free to reach out to me...
 
-📫 You can contact me at Chollathan163@gmail.com
+📫 You can contact me at Chollathan163@gmail.com FB:Chollathan Sonjoy
 
 😄 Pronouns: He/Him
 
